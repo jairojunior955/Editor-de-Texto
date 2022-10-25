@@ -1,0 +1,10 @@
+C:\Users\andre.bernardes\source\repos\EditorDeTexto\bin\Debug\EditorDeTexto.exe.config
+C:\Users\andre.bernardes\source\repos\EditorDeTexto\bin\Debug\EditorDeTexto.exe
+C:\Users\andre.bernardes\source\repos\EditorDeTexto\bin\Debug\EditorDeTexto.pdb
+C:\Users\andre.bernardes\source\repos\EditorDeTexto\obj\Debug\EditorDeTexto.csproj.AssemblyReference.cache
+C:\Users\andre.bernardes\source\repos\EditorDeTexto\obj\Debug\EditorDeTexto.Form1.resources
+C:\Users\andre.bernardes\source\repos\EditorDeTexto\obj\Debug\EditorDeTexto.Properties.Resources.resources
+C:\Users\andre.bernardes\source\repos\EditorDeTexto\obj\Debug\EditorDeTexto.csproj.GenerateResource.cache
+C:\Users\andre.bernardes\source\repos\EditorDeTexto\obj\Debug\EditorDeTexto.csproj.CoreCompileInputs.cache
+C:\Users\andre.bernardes\source\repos\EditorDeTexto\obj\Debug\EditorDeTexto.exe
+C:\Users\andre.bernardes\source\repos\EditorDeTexto\obj\Debug\EditorDeTexto.pdb
