@@ -41,5 +41,20 @@ namespace EditorDeTexto
                 escritor.Write(textoConteudo.Text);
             }
         }
+
+        private void botaoBusca_Click(object sender, EventArgs e)
+        {
+            string busca = textoBusca.Text;
+            string textoDoEditor = textoConteudo.Text;
+            int resultado = textoDoEditor.IndexOf(busca);
+            if (resultado >= 0)
+            {
+                MessageBox.Show("Achei o Texto" + busca);
+            }
+            else
+            {
+                MessageBox.Show("Não achei");
+            }
+        }
     }
 }
